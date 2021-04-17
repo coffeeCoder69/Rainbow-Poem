@@ -4,5 +4,6 @@ purple
 pink
 orange
 blue
+tu loudu hai
 red
 these are the colours of the rainbow
